@@ -1,0 +1,1 @@
+This is a proof-of-concept to build a javascript library using native javascript. Use gulp to build the js files (you'll have to install gulp-cli) like `node_modules/gulp-cli/bin/gulp.js scripts` . Then just open `view.html` in the browser. 
